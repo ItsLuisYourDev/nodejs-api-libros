@@ -1,0 +1,96 @@
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "La odisea de las estrellas perdidas",
+    "autor": "Juan Pérez",
+    "img": "https://picsum.photos/seed/123/700/400",
+    "descripcion": "Una asombrosa epopeya que sigue a la tripulación del transgaláctico 'Peregrino' en su búsqueda por el rincón más remoto del cosmos, donde descubrirán secretos ancestrales y desafiarán las leyes mismas del universo.",
+    "texto": "En los confines inexplorados del espacio, la nave estelar 'Peregrino', liderada por el carismático capitán Alejandro Morales, se lanza a una odisea sin igual. Su objetivo es llegar a un rincón remoto del cosmos, donde se rumorea que se encuentran las estrellas perdidas, un lugar mítico lleno de secretos ancestrales y poderes cósmicos inimaginables.\n\nA bordo del 'Peregrino', una ecléctica tripulación compuesta por científicos, ingenieros, aventureros y seres de distintas partes de la galaxia se enfrenta a desafíos interdimensionales. El tejido del espacio-tiempo se estira y retuerce, revelando portales a dimensiones desconocidas. Criaturas de luz y sombra danzan en las estrellas, mientras antiguas profecías se manifiestan en patrones celestiales.\n\nEn su búsqueda, la tripulación del 'Peregrino' descubre civilizaciones olvidadas, bibliotecas estelares con conocimientos perdidos y guardianes cósmicos que custodian secretos que podrían cambiar el curso de la existencia. Pero el viaje también despierta fuerzas oscuras que buscan utilizar el poder de las estrellas perdidas para fines destructivos.\n\nLa odisea de las estrellas perdidas se convierte en una carrera contra el tiempo y el destino. ¿Podrán los valientes exploradores desentrañar los enigmas cósmicos, superar las pruebas de los astros y regresar a casa con el conocimiento que transformará el futuro de la galaxia, o caerán en la vastedad intergaláctica para siempre?"
+}
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El susurro de las nebulosas",
+    "autor": "Luisa Martínez",
+    "img": "https://picsum.photos/seed/125/700/400",
+    "descripcion": "Una fascinante travesía que sigue la nave cósmica 'Estelaris' en su exploración de nebulosas lejanas, revelando secretos celestiales y enfrentándose a dilemas morales en el vasto universo.",
+    "texto": "En los confines del espacio, la nave cósmica 'Estelaris', bajo el comando de la experimentada capitana Ricardo Vargas, se lanza a un viaje épico hacia nebulosas lejanas, lugares donde los susurros celestiales cuentan historias de antiguas civilizaciones y misterios cósmicos.\n\nA bordo de la 'Estelaris', una ecléctica tripulación de científicos, ingenieros y exploradores se enfrenta a la inmensidad del cosmos. Nebulosas de colores etéreos danzan ante ellos mientras la nave avanza hacia lo desconocido. Pero entre la maravilla y la belleza, surgen dilemas éticos cuando descubren signos de vida en mundos distantes y se ven obligados a tomar decisiones que cambiarán el curso de la historia estelar.\n\nEn su travesía, la tripulación se encuentra con civilizaciones alienígenas pacíficas que comparten sabiduría ancestral, pero también descubre vestigios de antiguas guerras estelares que amenazan con resurgir. El susurro de las nebulosas se convierte en un eco que resuena con preguntas filosóficas sobre el propósito de la existencia en el vasto universo.\n\nA medida que la 'Estelaris' avanza entre las estrellas y los enigmas, la tripulación se enfrenta a decisiones difíciles y a la inevitable confrontación con fuerzas cósmicas más allá de su comprensión. ¿Lograrán preservar la paz en las nebulosas, o sucumbirán ante los secretos que yacen en las profundidades del espacio infinito?"
+}
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El rastro de los astros perdidos",
+    "autor": "Eduardo Gómez",
+    "img": "https://picsum.photos/seed/129/700/400",
+    "descripcion": "Una emocionante odisea que sigue a la nave galáctica 'Viajero Estelar' en su búsqueda de los astros perdidos, enfrentándose a enigmas cósmicos y desentrañando antiguas leyendas interestelares.",
+    "texto": "En el vasto lienzo del universo, la nave galáctica 'Viajero Estelar', bajo la dirección del intrépido capitán Ana Castillo, se aventura más allá de las estrellas en pos de un enigma cósmico. Los astros perdidos, fragmentos de la creación, se han dispersado en el cosmos, y la 'Viajero Estelar' se erige como la última esperanza para reunirlos.\n\nA bordo de la nave, una tripulación diversa de exploradores, científicos y guerreros del espacio se enfrenta a desafíos intergalácticos. Siguiendo el rastro de las leyendas interestelares, la 'Viajero Estelar' descubre mundos ocultos, portales dimensionales y civilizaciones antiguas que han guardado los secretos de los astros perdidos durante eones.\n\nEntre los resplandores de estrellas fugaces y la oscuridad del espacio, la tripulación se encuentra con seres cósmicos, entidades de luz y sombra que custodian los fragmentos de la creación. Pero no están solos en su búsqueda; una fuerza oscura, deseosa de controlar el poder de los astros perdidos, los persigue incansablemente.\n\nLa odisea del 'Viajero Estelar' se convierte en una carrera contra el tiempo y las fuerzas del destino. ¿Lograrán los valientes exploradores reunir los astros perdidos y restaurar el equilibrio en la galaxia, o sucumbirán ante las sombras que amenazan con consumir la luz de las estrellas?"
+}
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "La sinfonía de los planetas",
+    "autor": "Laura Sánchez",
+    "img": "https://picsum.photos/seed/131/700/400",
+    "descripcion": "Una asombrosa exploración que sigue la nave estelar 'Armonía Celestial' en su búsqueda por descubrir la sinfonía oculta entre los planetas, desentrañando secretos cósmicos y enfrentándose a desafíos astronómicos.",
+    "texto": "En la vastedad del cosmos, la nave estelar 'Armonía Celestial', liderada por el apasionado capitán Miguel Fernández, se embarca en una misión única: descubrir la sinfonía que yace oculta entre los planetas. Se dice que cada planeta emite una frecuencia única, creando una armonía cósmica que solo aquellos con oídos estelares pueden percibir.\n\nA bordo de la nave, músicos, astrofísicos y exploradores se unen para descifrar la partitura del universo. La 'Armonía Celestial' viaja de planeta en planeta, sintonizando sus instrumentos con las frecuencias celestiales mientras desentrañan los misterios de la música cósmica.\n\nEntre las órbitas y los anillos planetarios, la tripulación descubre antiguas partituras estelares, monumentos musicales que narran la historia del cosmos. Pero la búsqueda de la armonía se torna desafiante cuando se encuentran con disonancias cósmicas, fenómenos astronómicos impredecibles que amenazan con romper la melodía universal.\n\nLa odisea de la 'Armonía Celestial' se convierte en una danza cósmica entre la belleza y la adversidad. ¿Lograrán los intrépidos exploradores descifrar la sinfonía de los planetas y revelar los secretos que resonarán a través del universo, o serán testigos de la discordia que acecha en las estrellas lejanas?"
+}
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El resplandor de las constelaciones",
+    "autor": "Javier López",
+    "img": "https://picsum.photos/seed/133/700/400",
+    "descripcion": "Una aventura intergaláctica que sigue a la nave estelar 'Lumina Estelaris' en su misión de desvelar el misterio detrás del resplandor de las constelaciones, enfrentándose a fenómenos cósmicos y descubriendo secretos celestiales.",
+    "texto": "En los confines del universo, la nave estelar 'Lumina Estelaris', bajo el liderazgo del visionario capitán Marta Torres, emprende un viaje sin precedentes. Su misión: desentrañar el misterio detrás del resplandor de las constelaciones, patrones celestiales que han intrigado a las civilizaciones durante milenios.\n\nA bordo de la nave, astrónomos, exploradores y expertos en astrofísica se sumergen en el cosmos en busca de respuestas. La 'Lumina Estelaris' navega a través de nebulosas resplandecientes, cruzando la frontera entre galaxias y enfrentándose a fenómenos cósmicos que desafían la comprensión humana.\n\nEntre las estrellas titilantes, la tripulación descubre antiguas leyendas estelares, narrativas cósmicas que revelan el origen de las constelaciones. Pero la búsqueda se torna peligrosa cuando se encuentran con un enigma cósmico, un fenómeno celestial que amenaza con alterar la estructura misma del universo.\n\nLa odisea de la 'Lumina Estelaris' se convierte en un ballet cósmico, una danza entre la maravilla y el peligro. ¿Lograrán los valientes exploradores desvelar el secreto detrás del resplandor de las constelaciones y preservar el equilibrio en el firmamento, o sucumbirán ante la inmensidad y la incertidumbre del cosmos infinito?"
+}
+
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El Eco de las Lunas Perdidas",
+    "autor": "Paula García",
+    "img": "https://picsum.photos/seed/135/700/400",
+    "descripcion": "Una fascinante travesía que sigue a la nave sideral 'Lunaris Explorer' en su búsqueda de las lunas perdidas, enfrentándose a enigmas cósmicos y desentrañando los secretos de la creación lunar.",
+    "texto": "En el rincón más remoto del espacio, la nave sideral 'Lunaris Explorer', dirigida por la intrépida capitana Javier Rodríguez, inicia una odisea única en su tipo. La misión: rastrear y descubrir las lunas perdidas, fragmentos cósmicos que se desprendieron de la creación lunar ancestral.\n\nA bordo de la nave, astrogeólogos, arqueólogos estelares y exploradores se aventuran en la vastedad lunar. La 'Lunaris Explorer' se adentra en el cinturón de asteroides y explora los rincones más oscuros de las regiones inexploradas, donde se cree que las lunas perdidas han dejado su eco en el tejido del universo.\n\nEntre cráteres y campos de asteroides, la tripulación descubre antiguos registros lunares, inscripciones celestiales que narran la historia de la creación lunar y las fuerzas cósmicas que dieron origen a las lunas perdidas. Sin embargo, la travesía se torna desafiante cuando enfrentan anomalías gravitacionales y guardianes estelares que protegen los secretos de las lunas.\n\nLa odisea de la 'Lunaris Explorer' se convierte en una danza lunar, donde cada paso desentraña misterios y revela la conexión entre el pasado lunar y el futuro estelar. ¿Lograrán los valientes exploradores encontrar las lunas perdidas y comprender la verdad que resuena en el eco sideral, o serán absorbidos por la inmensidad de la creación cósmica?"
+}
+
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El Destino en los Anillos",
+    "autor": "Ricardo Martínez",
+    "img": "https://picsum.photos/seed/138/700/400",
+    "descripcion": "Una emocionante saga que sigue a la astronave 'Anillo Cósmico' en su búsqueda por desentrañar el destino oculto en los anillos planetarios, enfrentándose a profecías estelares y desafiando las fuerzas cósmicas.",
+    "texto": "En los confines del sistema estelar, la astronave 'Anillo Cósmico', capitaneada por la decidida líder Valeria Torres, se embarca en una épica travesía. Su misión: descifrar el destino que yace oculto en los anillos planetarios, estructuras cósmicas que han sido testigos de eras estelares.\n\nA bordo de la nave, astrólogos estelares, ingenieros cósmicos y navegantes intergalácticos se sumergen en el misterio de los anillos. La 'Anillo Cósmico' se aventura a través de sistemas planetarios, donde cada anillo guarda secretos ancestrales que influyen en el curso de la galaxia.\n\nEntre los resplandores de Saturno y las sombras de Júpiter, la tripulación descubre antiguas profecías estelares, inscripciones celestiales que revelan destinos entrelazados con la luz de los anillos. Pero la búsqueda se complica cuando se enfrentan a una fuerza cósmica que trata de cambiar el curso predeterminado del universo.\n\nLa odisea de la 'Anillo Cósmico' se convierte en una danza celestial, donde cada vuelta alrededor de los planetas desvela nuevos giros del destino. ¿Lograrán los valientes exploradores desentrañar las profecías y resistir las fuerzas que desafían el destino, o caerán en la oscuridad de los anillos que guardan secretos cósmicos?"
+}
+
+
+###
+POST http://127.0.0.1:3002/db HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "El Canto de las Estrellas",
+    "autor": "Isabel López",
+    "img": "https://picsum.photos/seed/140/700/400",
+    "descripcion": "Una mágica travesía que sigue a la nave estelar 'Armonía Celeste' en su búsqueda por descubrir el canto oculto de las estrellas, enfrentándose a melodías cósmicas y desvelando secretos astrales.",
+    "texto": "En el vasto lienzo del espacio, la nave estelar 'Armonía Celeste', capitaneada por el carismático líder Alejandro Gómez, se aventura más allá de las fronteras estelares. Su misión: desentrañar el canto oculto de las estrellas, una sinfonía cósmica que resuena en las profundidades del universo.\n\nA bordo de la nave, músicos estelares, astrónomos melódicos y exploradores sonoros se sumergen en la búsqueda del canto estelar. La 'Armonía Celeste' navega a través de constelaciones musicales, donde cada estrella emite notas celestiales que forman un espectáculo astral único.\n\nEntre las armonías celestiales y las disonancias cósmicas, la tripulación descubre partituras estelares antiguas, manuscritos astrales que narran la historia de la creación melódica del cosmos. Pero la travesía se torna desafiante cuando se encuentran con una enigmática melodía cósmica que podría cambiar el destino de las estrellas.\n\nLa odisea de la 'Armonía Celeste' se convierte en una danza estelar, donde cada nota resuena con la magia del universo. ¿Lograrán los valientes exploradores descifrar el canto de las estrellas y preservar la armonía celestial, o serán testigos de la cacofonía que acecha en la vastedad del espacio infinito?"
+}
